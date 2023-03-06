@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ecc63d-dfa9-471d-8172-ec0b3eb28550" name="Changes" comment="">
-
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-
+  <component name="RunManager">
+    <configuration name="Fakulteta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vaje02.Fakulteta" />
+      <module name="P2_Vaje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vaje02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,7 +47,7 @@
     </configuration>
     <recent_temporary>
       <list>
-
+        <item itemvalue="Application.Fakulteta" />
       </list>
     </recent_temporary>
   </component>
@@ -54,7 +60,6 @@
       <option name="presentableId" value="Default" />
       <updated>1676624612235</updated>
       <workItem from="1676624613429" duration="983000" />
-
     </task>
     <servers />
   </component>

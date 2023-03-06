@@ -82,7 +82,7 @@ public class Fakulteta {
             double factorial = fakultetaD(i);
             double stirling = stirlingD(i);
             double napaka = 100.0 * (factorial - stirling) / factorial;
-            System.out.printf("%3d %20e %20e %11.7f%n", i, factorial, stirling, napaka);
+            System.out.printf("%3d %20.9e %20.9e %11.7f%n", i, factorial, stirling, napaka);
         }
     }
 

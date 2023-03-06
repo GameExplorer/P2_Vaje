@@ -1,11 +1,11 @@
 # P2_Vaje
 
-Naloge z P2 Vaj. Naloge so zbrane v mapo po tednih. Vaje 1 je prvi teden in tako naprej
+Naloge s P2 Vaj. Naloge so zbrane v mapo po tednih.
 
 ---
 
 
-### Vaje 1: For Zanka
+### [Vaje 1: For Zanka](https://github.com/GameExplorer/P2_Vaje/tree/master/src/Vaje01)
 > Pravokotnik,
 > Trikotnik,
 > Romb,
@@ -13,7 +13,7 @@ Naloge z P2 Vaj. Naloge so zbrane v mapo po tednih. Vaje 1 je prvi teden in tako
 > Dodatni izivi
 
 
-### Vaje 2: Fakulteta
-> Fakulteta,
+### [Vaje 2: Fakulteta](https://github.com/GameExplorer/P2_Vaje/tree/master/src/Vaje02)
+> Fakulteta, Stirling,
 > Dodatni izivi
 

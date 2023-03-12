@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="d0ecc63d-dfa9-471d-8172-ec0b3eb28550" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Vaje01/DodatniIzzivi1.java" afterDir="false" />
@@ -13,6 +14,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Vaje01/vaje01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vaje01/Pravokotnik.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="d0ecc63d-dfa9-471d-8172-ec0b3eb28550" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,12 +125,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676624612235</updated>
       <workItem from="1676624613429" duration="983000" />
+<<<<<<< Updated upstream
       <workItem from="1676921163334" duration="66000" />
       <workItem from="1677486033686" duration="6645000" />
       <workItem from="1677501996919" duration="4000" />
       <workItem from="1677502716013" duration="2517000" />
       <workItem from="1677762855625" duration="199000" />
       <workItem from="1678013894238" duration="7855000" />
+=======
+      <workItem from="1678209439105" duration="157000" />
+      <workItem from="1678209836274" duration="3676000" />
+      <workItem from="1678303578455" duration="235000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

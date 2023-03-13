@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ecc63d-dfa9-471d-8172-ec0b3eb28550" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vaje01/Romb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vaje01/Smreka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vaje01/Trikotnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vaje03/Znaki.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vaje01/DodatniIzzivi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vaje01/DodatniIzzivi1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vaje01/vaje01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vaje01/Pravokotnik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +45,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DodatniIzzivi1">
+  <component name="RunManager" selected="Application.Znaki">
     <configuration name="DodatniIzzivi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vaje01.DodatniIzzivi1" />
-      <module name="P2_Vaje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Vaje01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pravokotnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vaje01.Pravokotnik" />
       <module name="P2_Vaje" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Znaki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vaje03.Znaki" />
+      <module name="P2_Vaje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vaje03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Znaki" />
         <item itemvalue="Application.DodatniIzzivi1" />
         <item itemvalue="Application.Smreka" />
         <item itemvalue="Application.Romb" />
         <item itemvalue="Application.Trikotnik" />
-        <item itemvalue="Application.Pravokotnik" />
       </list>
     </recent_temporary>
   </component>

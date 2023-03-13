@@ -17,3 +17,6 @@ Naloge s P2 Vaj. Naloge so zbrane v mapo po tednih.
 > Fakulteta, Stirling,
 > Dodatni izivi
 
+### [Vaje 3: Pikčasti Znaki](https://github.com/GameExplorer/P2_Vaje/tree/master/src/Vaje03)
+> Pikčasti Znaki
+> Dodatni izzivi
